@@ -1,5 +1,5 @@
-/Users/kodybuss/Unreal\ Projects/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UdemyUE5IntroProject/UdemyUE5IntroProject.cpp.o: \
-  /Users/kodybuss/Unreal\ Projects/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UdemyUE5IntroProjectEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h \
+/Users/kodybuss/Unreal\ Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UdemyUE5IntroProject/UdemyUE5IntroProject.cpp.o: \
+  /Users/kodybuss/Unreal\ Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UdemyUE5IntroProjectEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h \
   /Users/Shared/Epic\ Games/UE_5.2/Engine/Source/Runtime/Engine/Public/EngineSharedPCH.h \
   /Users/Shared/Epic\ Games/UE_5.2/Engine/Source/Runtime/Core/Public/Containers/ContainersFwd.h \
   /Users/Shared/Epic\ Games/UE_5.2/Engine/Source/Runtime/Core/Public/HAL/Platform.h \
@@ -3706,8 +3706,8 @@
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/pointer_to_binary_function.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/pointer_to_unary_function.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1/__functional/unary_negate.h \
-  /Users/kodybuss/Unreal\ Projects/UdemyUE5IntroProject/Source/UdemyUE5IntroProject/UdemyUE5IntroProject.cpp \
-  /Users/kodybuss/Unreal\ Projects/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UdemyUE5IntroProject/Definitions.UdemyUE5IntroProject.h \
-  /Users/kodybuss/Unreal\ Projects/UdemyUE5IntroProject/Source/UdemyUE5IntroProject/UdemyUE5IntroProject.h \
+  /Users/kodybuss/Unreal\ Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Source/UdemyUE5IntroProject/UdemyUE5IntroProject.cpp \
+  /Users/kodybuss/Unreal\ Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UdemyUE5IntroProject/Definitions.UdemyUE5IntroProject.h \
+  /Users/kodybuss/Unreal\ Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Source/UdemyUE5IntroProject/UdemyUE5IntroProject.h \
   Runtime/Core/Public/CoreMinimal.h \
   Runtime/Core/Public/Modules/ModuleManager.h

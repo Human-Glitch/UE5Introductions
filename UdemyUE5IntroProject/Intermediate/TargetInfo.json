@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "UdemyUE5IntroProject",
-			"Path": "/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/Source/UdemyUE5IntroProject.Target.cs",
+			"Path": "/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Source/UdemyUE5IntroProject.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "UdemyUE5IntroProjectEditor",
-			"Path": "/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/Source/UdemyUE5IntroProjectEditor.Target.cs",
+			"Path": "/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Source/UdemyUE5IntroProjectEditor.Target.cs",
 			"Type": "Editor"
 		}
 	]

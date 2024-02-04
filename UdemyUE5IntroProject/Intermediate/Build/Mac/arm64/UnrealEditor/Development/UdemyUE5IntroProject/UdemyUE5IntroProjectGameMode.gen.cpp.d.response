@@ -1,8 +1,8 @@
 -c
 -pipe
 -I"."
--I"/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/Intermediate/Build/Mac/UnrealEditor/Inc/UdemyUE5IntroProject/UHT"
--I"/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/Source"
+-I"/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Intermediate/Build/Mac/UnrealEditor/Inc/UdemyUE5IntroProject/UHT"
+-I"/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Source"
 -I"Runtime/TraceLog/Public"
 -I"Runtime/Core/Public"
 -I"Runtime"
@@ -283,8 +283,8 @@
 -isystem"ThirdParty/mimalloc/include"
 -isystem"ThirdParty/LibTiff/Source/Mac"
 -isystem"ThirdParty/LibTiff/Source"
--include-pch "/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UdemyUE5IntroProjectEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.gch"
--include "/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UdemyUE5IntroProject/Definitions.UdemyUE5IntroProject.h"
+-include-pch "/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UdemyUE5IntroProjectEditor/Development/Engine/SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.gch"
+-include "/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UdemyUE5IntroProject/Definitions.UdemyUE5IntroProject.h"
 -Wall
 -Werror
 -Wdelete-non-virtual-dtor
@@ -339,6 +339,6 @@
 -std=c++17
 -fpch-validate-input-files-content
 -stdlib=libc++
-"/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/Intermediate/Build/Mac/UnrealEditor/Inc/UdemyUE5IntroProject/UHT/UdemyUE5IntroProjectGameMode.gen.cpp"
--MD -MF"/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UdemyUE5IntroProject/UdemyUE5IntroProjectGameMode.gen.cpp.d"
--o "/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UdemyUE5IntroProject/UdemyUE5IntroProjectGameMode.gen.cpp.o"
+"/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Intermediate/Build/Mac/UnrealEditor/Inc/UdemyUE5IntroProject/UHT/UdemyUE5IntroProjectGameMode.gen.cpp"
+-MD -MF"/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UdemyUE5IntroProject/UdemyUE5IntroProjectGameMode.gen.cpp.d"
+-o "/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Intermediate/Build/Mac/arm64/UnrealEditor/Development/UdemyUE5IntroProject/UdemyUE5IntroProjectGameMode.gen.cpp.o"
