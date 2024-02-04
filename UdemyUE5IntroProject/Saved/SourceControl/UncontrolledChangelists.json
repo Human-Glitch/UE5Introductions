@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/N8/B76AK4BOEUXM38WNE654L6.uasset",
+				"/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/M6/S8EO3YL0SFF1H8J5KXQ5TZ.uasset",
+				"/Users/kodybuss/Unreal Projects/UdemyUE5IntroProject/UdemyUE5IntroProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/X5/MDJV1MLM310BNRU3XAL7SA.uasset"
+			]
+		}
+	]
+}
